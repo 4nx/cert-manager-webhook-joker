@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  cert-manager-webhook-joker:
+  - apiVersion: v1
+    appVersion: 0.1.1
+    created: "2022-07-07T11:54:55.602695+02:00"
+    description: joker.com DNS cert-manager ACME webhook
+    digest: 7150fc14ccf798cc0d847e1c53fcd09c3932ca2bde584d100363027c9fa5c34e
+    name: cert-manager-webhook-joker
+    urls:
+    - https://github.com/igoooor/cert-manager-webhook-joker/releases/download/0.1.1/cert-manager-webhook-joker-0.1.1.tgz
+    version: 0.1.1
+generated: "2022-07-07T11:54:55.601862+02:00"
